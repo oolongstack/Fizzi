@@ -1,9 +1,9 @@
 import type { Content } from "@prismicio/client";
 import { PrismicNextLink } from "@prismicio/next";
 import {
+  JSXMapSerializer,
   PrismicRichText,
   SliceComponentProps,
-  JSXMapSerializer,
 } from "@prismicio/react";
 import styles from "./index.module.css";
 
